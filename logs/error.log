@@ -14,3 +14,4 @@
 2022/07/27 12:23:33 [emerg] 14748#3704: CreateFile() "D:\WORK\NGINX/conf/servers/hubcomercial.conf" failed (3: The system cannot find the path specified) in D:\WORK\NGINX/conf/nginx.conf:116
 2022/07/27 12:24:30 [error] 14384#14036: *1 "D:/WORK/CODE/GITHUB/private/website-rinaldilucas/docs/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8002"
 2022/07/27 12:24:30 [error] 14384#14036: *1 CreateFile() "D:/WORK/CODE/GITHUB/private/website-rinaldilucas/docs/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8002", referrer: "http://localhost:8002/"
+2022/07/27 12:27:26 [error] 5852#11220: *1 directory index of "D:/WORK/CODE/GITHUB/private/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
